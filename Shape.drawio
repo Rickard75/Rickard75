@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T13:06:10.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vJQRFGQThbw_5m3_y-Q-" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T13:07:41.591Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="34gGJzhfPOuaXPCMYZLi" version="24.6.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="737" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,8 +70,8 @@
             <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vv2tL8DzJFofggOlcyXv-15" value="Esempio di Factory: tanti oggetti che ereditano da una stessa classe base" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="20" width="410" height="30" as="geometry" />
+        <mxCell id="vv2tL8DzJFofggOlcyXv-15" value="Esempio di Factory: tanti oggetti che ereditano da una stessa classe base&lt;div&gt;(fonte: examples/factory)&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="20" width="410" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
